@@ -13,3 +13,9 @@ def sum(a, b):
 
 results1 = sum(3, 9)
 print(results1)
+
+# Loop over a list
+cars = ["Toyota", "Nissan", "BMW", "Audi"]
+
+for i in cars:
+  print(i)
