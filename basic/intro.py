@@ -15,7 +15,7 @@ results1 = sum(3, 9)
 print(results1)
 
 # Loop over a list
-cars = ["Toyota", "Nissan", "BMW", "Audi"]
+cars = ["Toyota", "Nissan", "BMW", "Audi", "Tesla"]
 
 for i in cars:
   print(i)
