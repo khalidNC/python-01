@@ -1,7 +1,7 @@
 print("Hello World!")
 
 
-# Create a function that multiple 2 numbers
+# Create a function that has multiple 2 numbers
 def multiple(a, b):
     return a * b
 
